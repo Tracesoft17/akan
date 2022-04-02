@@ -1,0 +1,1 @@
+alert('welocome to the akan name generator do you want to know your name?')
