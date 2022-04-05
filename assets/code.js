@@ -1,4 +1,3 @@
-alert('welcome to the akan name generator do you want to know your name?')
 function getFormInput(){
     var date = document.getElementById('dateInput').value
     const male = document.getElementById("maleRadio");
